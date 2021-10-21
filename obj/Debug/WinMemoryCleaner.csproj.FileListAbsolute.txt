@@ -1,0 +1,17 @@
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\bin\Debug\WinMemoryCleaner.xml
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\bin\Debug\WinMemoryCleaner.exe
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\bin\Debug\WinMemoryCleaner.pdb
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner.csproj.AssemblyReference.cache
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\View\Window\MainWindow.g.cs
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\App.g.cs
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner_MarkupCompile.cache
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner_MarkupCompile.lref
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\App.baml
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\View\Window\MainWindow.baml
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner.g.resources
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner.Properties.Resources.resources
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner.csproj.GenerateResource.cache
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner.csproj.CoreCompileInputs.cache
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner.exe
+C:\Users\tekinohore\Desktop\WinMemoryCleaner-master\src\obj\Debug\WinMemoryCleaner.pdb
